@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **nahumsa/nahumsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Nahum's github stats](https://github-readme-stats.vercel.app/api?username=nahumsa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumsa&theme=radical&hide=javascript,html)]
