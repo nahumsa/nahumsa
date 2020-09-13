@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Nahum's github stats](https://github-readme-stats.vercel.app/api?username=nahumsa&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumsa&theme=radical&hide=javascript,html)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahumsa&theme=radical&hide=javascript,html)
