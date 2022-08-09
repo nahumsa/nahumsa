@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 I'm ![N](https://raw.githubusercontent.com/nahumsa/n-blog/gh-pages/favicon.ico)ahum.
 
+- Data Scientist/Engineer;
 - PhD student @ CBPF;
 - Qiskit advocate. 
 
@@ -28,7 +29,5 @@ I'm ![N](https://raw.githubusercontent.com/nahumsa/n-blog/gh-pages/favicon.ico)a
 <img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
-
-![Nahum's github stats](https://github-readme-stats.vercel.app/api?username=nahumsa&show_icons=true&theme=radical)
 
 - 📫 How to reach me: [@sa_nahum](https://twitter.com/sa_nahum)
