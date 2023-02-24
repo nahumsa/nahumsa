@@ -1,15 +1,24 @@
-### Hi there 👋
+# Hi there! I'm Nahum Sá, a recovering Data Scientist (Data Engineer) 👋
 
-I'm ![N](https://raw.githubusercontent.com/nahumsa/n-blog/gh-pages/favicon.ico)ahum.
 
-- Data Engineer and recovering Data Scientist;
-- PhD student @ CBPF;
-- Qiskit advocate. 
+I'm passionate about leveraging technology to solve complex data challenges and develop robust data pipelines.
 
-### Skills
+## 🔭 What I do
 
-<img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="Godot Engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?&style=for-the-badge&logo=godot-engine"/>
+I design and build data architectures that power data-driven decision-making for businesses. I work on developing, maintaining, and scaling data pipelines, ensuring data quality and integrity. I also like to contribute to open-source software!
 
-<img alt="CircleCI" src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+## 🌱 What I'm learning
 
-<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
+I'm always learning new tools and technologies to stay on top of the rapidly evolving data engineering landscape. Currently, I'm exploring [Apache Kafka](https://kafka.apache.org/), [Dagster](https://dagster.io/), and [Scrapy](https://scrapy.org/).
+
+## 💼 Where I've worked
+
+- [Juit](https://juit.io/) - Data Engineer (2023-Present)
+- [RIO analytics](https://rioanalytics.com.br/) - Data Scientist (2022-2023)
+
+## 📫 How to reach me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nahumsa/) if you have any questions or would like to connect!
+
+
+Thanks for stopping by!
