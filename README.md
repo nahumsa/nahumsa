@@ -1,7 +1,6 @@
 # Hi there! I'm Nahum Sá, a recovering Data Scientist (Data Engineer) 👋
 
-
-I'm passionate about leveraging technology to solve complex data challenges and develop robust data pipelines.
+As a data engineer, I am passionate about leveraging technology to solve complex data challenges, develop robust data pipelines, and ensure high-quality data management. With a focus on data quality, I specialize in designing and developing scalable data pipelines that are efficient, reliable, and secure. I am committed to implementing data governance policies and ensuring compliance with regulatory requirements to help organizations make informed decisions, improve operational efficiency, and gain a competitive edge. I stay up-to-date with the latest trends in data engineering and continuously seek new ways to improve data management practices.
 
 ## 🔭 What I do
 
