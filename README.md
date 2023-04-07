@@ -4,7 +4,11 @@ As a data engineer, I am passionate about leveraging technology to solve complex
 
 ## 🔭 What I do
 
-I design and build data architectures that power data-driven decision-making for businesses. I work on developing, maintaining, and scaling data pipelines, ensuring data quality and integrity. I also like to contribute to open-source software!
+As a data engineer, I design and build data architectures that power data-driven decision-making for businesses. I specialize in developing, maintaining, and scaling data pipelines, ensuring data quality and integrity at every step. Whether it involves extracting data from various sources, transforming it to fit business needs, loading it into data warehouses, or a data lake, I take a meticulous approach to ensure that data pipelines are efficient, reliable, and secure.
+
+In addition to my core responsibilities, I am also an avid contributor to open-source software. I believe that open-source projects offer a unique opportunity to collaborate with a global community of developers, learn from diverse perspectives, and contribute to the advancement of technology. My contributions have ranged from developing new features to improving existing ones, and I take pride in being part of a vibrant open-source community.
+
+Overall, my passion for data engineering stems from the belief that data has the power to transform businesses and improve people's lives. I am always eager to take on new challenges and explore new technologies to help organizations harness the full potential of data.
 
 ## 🌱 What I'm learning
 
