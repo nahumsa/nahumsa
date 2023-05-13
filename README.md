@@ -19,7 +19,7 @@ I'm always learning new tools and technologies to stay on top of the rapidly evo
 - [Juit](https://juit.io/) - Data Engineer (2023-Present)
 - [RIO analytics](https://rioanalytics.com.br/) - Data Scientist (2022-2023)
 - [FACC](https://www.facc10.org.br/) - Quantum Researcher (2021 - 2022)
-- 
+
 ## 📫 How to reach me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nahumsa/) if you have any questions or would like to connect!
