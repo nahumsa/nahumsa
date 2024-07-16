@@ -12,7 +12,7 @@ Overall, my passion for data engineering stems from the belief that data has the
 
 ## 🌱 What I'm learning
 
-I'm always learning new tools and technologies to stay on top of the rapidly evolving data engineering landscape. Currently, I'm exploring [Apache Kafka](https://kafka.apache.org/), [Dagster](https://dagster.io/), and [Scrapy](https://scrapy.org/).
+I'm always learning new tools and technologies to stay on top of the rapidly evolving data engineering landscape. Currently, I'm exploring [Apache Kafka](https://kafka.apache.org/), [Dagster](https://dagster.io/), and [Ollama](https://ollama.com/).
 
 ## 💼 Where I've worked
 
