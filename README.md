@@ -16,7 +16,7 @@ I'm always learning new tools and technologies to stay on top of the rapidly evo
 
 ## 💼 Where I've worked
 
-- [Amaris Consulting]([https://juit.io/](https://amaris.com/)) - Data Engineer (2025-Present)
+- [Amaris Consulting](https://amaris.com/) - Data Engineer (2025-Present)
 - [Juit](https://juit.io/) - Data Engineer (2023-2024)
 - [RIO analytics](https://rioanalytics.com.br/) - Data Scientist (2022-2023)
 - [FACC](https://www.facc10.org.br/) - Quantum Researcher (2021 - 2022)
